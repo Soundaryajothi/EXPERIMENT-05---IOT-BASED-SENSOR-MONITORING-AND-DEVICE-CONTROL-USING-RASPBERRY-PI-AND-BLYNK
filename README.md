@@ -126,7 +126,7 @@ o	Switch the relay ON or OFF.
 ---
 |  VCC	  | 	5V Pin		  |  Power supply
 ---
-|  GND	  | 	GND Pin		  |  Common ground
+round
 
 ---
 ---
